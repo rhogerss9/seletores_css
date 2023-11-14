@@ -11,6 +11,10 @@ p{
     color: #f00;
 }
 
+main {
+    margin-top: 1rem;
+}
+
 /* seletor pelo classe */
 .paragrafo {
     border: 1px solid #0ff;
